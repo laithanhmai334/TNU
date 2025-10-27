@@ -9,6 +9,9 @@ int hieu(int a, int b){
 }
 int tich(int a, int b);
 float thuong(int a, int b);
+int dtHV(int a){
+	return a * a;
+}
 int main()
 {
 	cout << "DAY LA CHUONG TRINH DE THUC HANH GIT";
